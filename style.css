@@ -11,16 +11,16 @@
 }
 .box {
     width: 300px;
-    border: 1px solid gray;
+    border: 1px solid pink;
     border-radius: 20px;
     padding: 20px;
     margin: 20px;
 }
 
 .row button {
-    background-color: green;
+    background-color: yellow;
     font-size: 20px;
-    color: white;
+    color: black;
     width: 100%;
     padding: 10px;
     border-radius: 5px;
